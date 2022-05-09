@@ -6,6 +6,7 @@
 
     TO RUN: gcc -o ash ash.c
             ./ash
+*/
 
 
 #include <stdio.h>
