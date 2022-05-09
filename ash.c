@@ -7,11 +7,6 @@
     TO RUN: gcc -o ash ash.c
             ./ash
 
-    Incompletiton of task:
-    - I saw the requirement to display the command entered from a file a little too late, and ran out of time to implement it
-    - Similarly, I failed pay attention to the need for when the command has two pipelines, 2 "|"s, and therefore the program
-      only supports single pipeline being inputted.
-    */
 
 #include <stdio.h>
 #include <stdlib.h>
